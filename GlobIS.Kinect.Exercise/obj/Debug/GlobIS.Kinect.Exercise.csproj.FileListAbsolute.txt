@@ -1,0 +1,19 @@
+G:\Education\Lectures\Human-Computer Interaction\HS2015\Kinect\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\bin\Debug\KinectExercise.exe.config
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\bin\Debug\KinectExercise.exe.config
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\bin\Debug\KinectExercise.exe
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\bin\Debug\KinectExercise.pdb
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\bin\Debug\Microsoft.Kinect.dll
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\bin\Debug\Microsoft.Kinect.xml
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\obj\Debug\GlobIS.Kinect.Exercise.csprojResolveAssemblyReference.cache
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\obj\Debug\MyKinectApplication.baml
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\obj\Debug\MyKinectApplication.g.cs
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\obj\Debug\App.g.cs
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\obj\Debug\KinectExercise_MarkupCompile.cache
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\obj\Debug\KinectExercise.g.resources
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\obj\Debug\GlobIS.Kinect.HCIExercise.Properties.Resources.resources
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\obj\Debug\GlobIS.Kinect.Exercise.csproj.GenerateResource.Cache
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\obj\Debug\KinectExercise.exe
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect Exercise (Template)\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\obj\Debug\KinectExercise.pdb
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect3000\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\bin\Debug\KinectExercise.exe.config
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect3000\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\obj\Debug\KinectExercise.exe
+C:\Users\hciexercise.CARNEGIE\Desktop\Kinect3000\Kinect Exercise (Template)\GlobIS.Kinect.Exercise\obj\Debug\KinectExercise.pdb
